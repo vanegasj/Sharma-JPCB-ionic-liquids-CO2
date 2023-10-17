@@ -1,0 +1,6 @@
+;
+; See literature references in forcefield.itp and atomtypes.atp
+;
+[ atomtypes ]
+; type    mass      charge  ptype sigma(nm)  epsilon(kJ/mol) sigma(Ang.)  epsilon(kcal/mol)
+NA+   22.98977  1.000   A   3.33045e-01  1.15980e-02

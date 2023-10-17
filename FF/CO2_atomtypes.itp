@@ -1,0 +1,5 @@
+[  atomtypes  ]
+; type    mass      charge  ptype sigma(nm)  epsilon(kJ/mol) sigma(Ang.)  epsilon(kcal/mol)
+C     12.01108       0.6512   A     2.800000e-01  0.2340 ;   2.800     
+O     15.99940      -0.3256   A     3.028000e-01  0.6683 ;   3.028     
+

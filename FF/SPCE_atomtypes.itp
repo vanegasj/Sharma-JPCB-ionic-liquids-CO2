@@ -1,0 +1,5 @@
+; SPC/E water atom types
+[  atomtypes  ]
+; type    mass      charge  ptype sigma(nm)  epsilon(kJ/mol) sigma(Ang.)  epsilon(kcal/mol)
+OW    15.99940  -0.820   A    3.16557e-01  6.50194e-01
+H      1.00800   0.410   A    0.00000e+00  0.00000e+00

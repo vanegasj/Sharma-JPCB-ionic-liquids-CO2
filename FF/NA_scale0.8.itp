@@ -1,0 +1,11 @@
+;
+; See literature references in forcefield.itp and atomtypes.atp
+;
+
+[ moleculetype ]
+; molname   nrexcl
+NA          1
+
+[ atoms ]
+;   nr       type  resnr residue  atom   cgnr     charge       mass           
+     1         NA+      1     NA   NA      1      0.8       22.98977
